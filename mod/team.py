@@ -19,7 +19,13 @@ class Team:
         self.roundLoss: int  = roundLoss 
         self.rivals: list = rivals
 
-    def addResult(self, ownMatches: int, rivalMatches: int) -> None:
+    def addWinResult(self, result: int) -> None:
+        if result == 1:
+            self.wins += 1
+        else:
+            self.loss += 1
+    
+    def addResult(self, ownMatches: int, rivalMatches: int) -> None: #Round updater 
         self.matchWins += ownMatches
         self.matchLoss += rivalMatches
         if ownMatches > rivalMatches:

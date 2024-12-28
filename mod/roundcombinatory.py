@@ -9,7 +9,22 @@ class RoundCombinatory:
     def __init__(self, round: Round):
         self.round = round
 
-    def possibleMatches(self) -> List[Set[Match]]:
+    def possibleMatchResult(self) -> List[Set[Match]]: 
+        possibleResult = [1,-1]
+        matchWinLossCombination = [
+            [
+                copy.deepcopy(match).updateWinScore(result)
+                for result in possibleResult
+            ]
+            for match in self.round.matches
+        ]
+        roundCombinations = list(product(*matchWinLossCombination))
+        roundCombinationsList = [list(combination) for combination in roundCombinations]        
+        roundCombinationInRoundFormat = [Round(matches=possibleRound).updateTeams() for possibleRound in roundCombinationsList]
+        
+        return roundCombinationInRoundFormat
+    
+    def possibleMatches(self) -> List[Set[Match]]: #need to update this method in addScore and teams 
         possibleResults = [[2, 0], [2, 1], [1, 2], [0, 2]]
         matchResultsCombinations = [
             [

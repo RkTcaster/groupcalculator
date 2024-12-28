@@ -1,3 +1,4 @@
+from __future__ import annotations
 from typing import List, Optional, Dict
 import pandas as pd
 from .team import Team
@@ -12,7 +13,11 @@ class Round:  # Change Name to Round/RoundState/other
 
     def createTeams(self, teamInfo: Dict[str, str | int]) -> None:
         self.teams = [Team(*attributes) for attributes in zip(*teamInfo.values())]
-
+    
+    def updateTeams(self) -> Round:
+        self.teams = [team for match in self.matches for team in (match.team1, match.team2)]
+        return self
+    
     def createRound(self, roundMatches: List[List[str]]) -> None:
         for matches in roundMatches:
             team1 = None
@@ -31,15 +36,7 @@ class Round:  # Change Name to Round/RoundState/other
     def createDf(self, dictForDf: Dict) -> pd.DataFrame:
         roundDf = pd.DataFrame(dictForDf)
         roundDf["wins_loss"] = roundDf.wins - roundDf.loss
-        roundDf["mapWins_mapLoss"] = roundDf.matchWins - roundDf.matchLoss
-        roundDf["roundWin_roundLoss"] = roundDf.roundWin - roundDf.roundLoss
-        roundDf["ranking"] = (
-            1500
-            + roundDf.wins_loss * 100
-            + roundDf.mapWins_mapLoss * 10
-            + roundDf.roundWin_roundLoss
-        )
-        roundDf = roundDf.sort_values(by="ranking", ascending=False)
+        roundDf = roundDf.sort_values(by="wins_loss", ascending=False)
 
         return roundDf
 
