@@ -1,3 +1,4 @@
+from __future__ import annotations
 class Team:
     def __init__(
         self,
@@ -8,7 +9,7 @@ class Team:
         matchLoss: int = 0,
         roundWin: int = 0,
         roundLoss: int = 0,
-        rivals: list = [],
+        rank: int = 0
     ):
         self.name: str = name
         self.wins: int = wins 
@@ -17,11 +18,13 @@ class Team:
         self.matchLoss: int = matchLoss 
         self.roundWin: int  = roundWin 
         self.roundLoss: int  = roundLoss 
-        self.rivals: list = rivals
+        self.rivals: list = []
+        self.rank: int = -1 
 
-    def addWinResult(self, result: int) -> None:
+    def addWinResult(self, result: int, rival: Team) -> None:
         if result == 1:
             self.wins += 1
+            self.rivals.append(rival.name)
         else:
             self.loss += 1
     
@@ -33,5 +36,6 @@ class Team:
         else:
             self.loss += 1
 
-    def addRival(self, oponent: str) -> None:
-        self.rivals.append(oponent)
+    def addRival(self, oponent: Team) -> None:
+        self.rivals.append(oponent.name)
+        

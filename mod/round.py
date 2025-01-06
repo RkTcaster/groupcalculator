@@ -3,6 +3,7 @@ from typing import List, Optional, Dict
 import pandas as pd
 from .team import Team
 from .match import Match
+from itertools import groupby
 
 class Round:  # Change Name to Round/RoundState/other
     def __init__(
@@ -65,3 +66,44 @@ class Round:  # Change Name to Round/RoundState/other
         createDict = self.createDict()
 
         return self.createDf(createDict)
+    
+    def createHierarchy(self) -> Dict:
+        hierarchy_dict = {}
+        for team in self.teams:
+            hierarchy_dict[team.name] = {
+            "wins": team.wins,
+            "rivals":team.rivals
+            # "loss": team.loss,
+            # "matchWins": team.matchWins,
+            # "matchLoss": team.matchLoss,
+            # "roundWin": team.roundWin,
+            # "roundLoss": team.roundLoss,
+            }
+        return hierarchy_dict
+    def round_to_hierarchy_dict(self) -> Dict:
+        createDict = self.createHierarchy()
+        return self.createHierarchy(createDict)
+
+    def group_table(self,teamDict: List):
+        return  [
+        list(group) for _, group in groupby(teamDict, key=lambda x: x[1]["wins"])
+    ]
+    
+    
+    
+    def winEvaluation(self) -> List:        
+        table_dict = self.createHierarchy()
+        sorted_table = sorted(table_dict.items(), 
+                              key = lambda x: (x[1]["wins"],x[1]["rivals"]),        
+        reverse=True)
+
+        grouped_table = self.group_table(sorted_table)
+        
+        # for rank, team in enumerate(grouped_table,start = 1):
+        #     if len(team) == 2:
+        #         for tie_team in team:
+        #             print(tie_team)                
+  
+        return grouped_table
+    
+
