@@ -24,6 +24,8 @@ class RoundCombinatory:
         
         return roundCombinationInRoundFormat
     
+    
+    
     def possibleMatches(self) -> List[Set[Match]]: #need to update this method in addScore and teams 
         possibleResults = [[2, 0], [2, 1], [1, 2], [0, 2]]
         matchResultsCombinations = [

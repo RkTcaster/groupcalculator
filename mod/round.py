@@ -72,10 +72,11 @@ class Round:  # Change Name to Round/RoundState/other
         for team in self.teams:
             hierarchy_dict[team.name] = {
             "wins": team.wins,
-            "rivals":team.rivals
-            # "loss": team.loss,
-            # "matchWins": team.matchWins,
-            # "matchLoss": team.matchLoss,
+            "rivals":team.rivals,
+            "loss": team.loss,
+            "matchWins": team.matchWins,
+            "matchLoss": team.matchLoss,
+            "matchRanking": 1000 +team.wins*100-team.loss*100+team.matchWins-team.matchLoss
             # "roundWin": team.roundWin,
             # "roundLoss": team.roundLoss,
             }
@@ -89,20 +90,20 @@ class Round:  # Change Name to Round/RoundState/other
         list(group) for _, group in groupby(teamDict, key=lambda x: x[1]["wins"])
     ]
     
-    
+    # def untie_rules(self):
+    #     if len(self) == 2:
+            
     
     def winEvaluation(self) -> List:        
         table_dict = self.createHierarchy()
         sorted_table = sorted(table_dict.items(), 
-                              key = lambda x: (x[1]["wins"],x[1]["rivals"]),        
+                              key = lambda x: (x[1]["wins"],x[1]["loss"],
+                                               x[1]["matchWins"],x[1]["matchLoss"],
+                                               x[1]["matchRanking"],
+                                               x[1]["rivals"]),        
         reverse=True)
 
-        grouped_table = self.group_table(sorted_table)
-        
-        # for rank, team in enumerate(grouped_table,start = 1):
-        #     if len(team) == 2:
-        #         for tie_team in team:
-        #             print(tie_team)                
+        grouped_table = self.group_table(sorted_table)                   
   
         return grouped_table
     

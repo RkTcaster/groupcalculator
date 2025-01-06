@@ -29,8 +29,6 @@ class Team:
             self.loss += 1
     
     def addResult(self, ownMatches: int, rivalMatches: int) -> None: #Round updater 
-        self.matchWins += ownMatches
-        self.matchLoss += rivalMatches
         if ownMatches > rivalMatches:
             self.wins += 1
         else:

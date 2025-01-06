@@ -11,10 +11,9 @@ class Match:
         self.team1Score: int = team1Score
         self.team2Score: int = team2Score
 
-    def updateWinScore(self,result:int) -> Match: #Add ways to track unties here with rivals
-      
+    def updateWinScore(self,result:int) -> Match: 
         self.team1.addWinResult(result,self.team2)
-        self.team2.addWinResult(result*-1,self.team2)
+        self.team2.addWinResult(result*-1,self.team1)
         return self
     
     def updateScore(self) -> None:
@@ -26,7 +25,7 @@ class Match:
     def addScore(self, team1Score: int, team2Score: int) -> Match:
         self.team1Score = team1Score
         self.team2Score = team2Score
-        self.updateScore()
+        #self.updateScore()
         return self
 
     def printMatchScore(self) -> None:
