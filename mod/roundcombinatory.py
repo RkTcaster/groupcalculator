@@ -1,6 +1,7 @@
 import copy
 from itertools import product
 from typing import List, Set
+from copy import deepcopy
 
 from .round import Round
 from .match import Match
@@ -37,6 +38,6 @@ class RoundCombinatory:
         ]
         roundCombinations = list(product(*matchResultsCombinations))
         roundCombinationsList = [list(combination) for combination in roundCombinations]        
-        roundCombinationInRoundFormat = [Round(matches=possibleRound, teams=self.round.teams) for possibleRound in roundCombinationsList]
+        roundCombinationInRoundFormat = [Round(matches=possibleRound, teams=deepcopy(self.round.teams)) for possibleRound in roundCombinationsList]
         
         return roundCombinationInRoundFormat

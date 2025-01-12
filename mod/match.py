@@ -17,15 +17,15 @@ class Match:
         return self
     
     def updateScore(self) -> None:
-        self.team1.addRival(self.team2.name)
-        self.team2.addRival(self.team1.name)
+        #self.team1.addRival(self.team2.name)
+        #self.team2.addRival(self.team1.name)
         self.team1.addResult(self.team1Score, self.team2Score)
         self.team2.addResult(self.team2Score, self.team1Score)
 
     def addScore(self, team1Score: int, team2Score: int) -> Match:
         self.team1Score = team1Score
         self.team2Score = team2Score
-        #self.updateScore()
+        self.updateScore()
         return self
 
     def printMatchScore(self) -> None:

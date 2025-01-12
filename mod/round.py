@@ -4,6 +4,8 @@ import pandas as pd
 from .team import Team
 from .match import Match
 from itertools import groupby
+from copy import deepcopy
+
 
 class Round:  # Change Name to Round/RoundState/other
     def __init__(
@@ -13,7 +15,7 @@ class Round:  # Change Name to Round/RoundState/other
         self.teams: List[Team] = teams
 
     def createTeams(self, teamInfo: Dict[str, str | int]) -> None:
-        self.teams = [Team(*attributes) for attributes in zip(*teamInfo.values())]
+        self.teams = deepcopy([Team(*attributes) for attributes in zip(*teamInfo.values())])
     
     def updateTeams(self) -> Round:
         self.teams = [team for match in self.matches for team in (match.team1, match.team2)]
