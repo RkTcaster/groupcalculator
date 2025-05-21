@@ -1,0 +1,939 @@
+position,match,count,team
+1,"('6K', '0-2', 'FUS')",14208,Exolos
+1,"('6K', '1-2', 'FUS')",14176,Exolos
+1,"('6K', '2-0', 'FUS')",14144,Exolos
+1,"('6K', '2-1', 'FUS')",14208,Exolos
+1,"('AB3', '0-2', 'Exolos')",16384,Exolos
+1,"('AB3', '1-2', 'Exolos')",16384,Exolos
+1,"('AB3', '2-0', 'Exolos')",11680,Exolos
+1,"('AB3', '2-1', 'Exolos')",12288,Exolos
+1,"('CHV', '0-2', '6K')",13216,Exolos
+1,"('CHV', '0-2', 'Cinta Negra')",14184,Exolos
+1,"('CHV', '1-2', '6K')",13248,Exolos
+1,"('CHV', '1-2', 'Cinta Negra')",14184,Exolos
+1,"('CHV', '2-0', '6K')",15168,Exolos
+1,"('CHV', '2-0', 'Cinta Negra')",14184,Exolos
+1,"('CHV', '2-1', '6K')",15104,Exolos
+1,"('CHV', '2-1', 'Cinta Negra')",14184,Exolos
+1,"('Contra', '0-2', 'Cinta Negra')",14184,Exolos
+1,"('Contra', '0-2', 'Exolos')",16384,Exolos
+1,"('Contra', '1-2', 'Cinta Negra')",14184,Exolos
+1,"('Contra', '1-2', 'Exolos')",16384,Exolos
+1,"('Contra', '2-0', 'Cinta Negra')",14184,Exolos
+1,"('Contra', '2-0', 'Exolos')",11680,Exolos
+1,"('Contra', '2-1', 'Cinta Negra')",14184,Exolos
+1,"('Contra', '2-1', 'Exolos')",12288,Exolos
+1,"('FUEGO', '0-2', 'AB3')",13824,Exolos
+1,"('FUEGO', '0-2', 'FUS')",13232,Exolos
+1,"('FUEGO', '1-2', 'AB3')",14240,Exolos
+1,"('FUEGO', '1-2', 'FUS')",13232,Exolos
+1,"('FUEGO', '2-0', 'AB3')",14336,Exolos
+1,"('FUEGO', '2-0', 'FUS')",15136,Exolos
+1,"('FUEGO', '2-1', 'AB3')",14336,Exolos
+1,"('FUEGO', '2-1', 'FUS')",15136,Exolos
+2,"('6K', '0-2', 'FUS')",1600,Exolos
+2,"('6K', '1-2', 'FUS')",1568,Exolos
+2,"('6K', '2-0', 'FUS')",1600,Exolos
+2,"('6K', '2-1', 'FUS')",1600,Exolos
+2,"('AB3', '2-0', 'Exolos')",3296,Exolos
+2,"('AB3', '2-1', 'Exolos')",3072,Exolos
+2,"('CHV', '0-2', '6K')",2464,Exolos
+2,"('CHV', '0-2', 'Cinta Negra')",1592,Exolos
+2,"('CHV', '1-2', '6K')",2496,Exolos
+2,"('CHV', '1-2', 'Cinta Negra')",1592,Exolos
+2,"('CHV', '2-0', '6K')",704,Exolos
+2,"('CHV', '2-0', 'Cinta Negra')",1592,Exolos
+2,"('CHV', '2-1', '6K')",704,Exolos
+2,"('CHV', '2-1', 'Cinta Negra')",1592,Exolos
+2,"('Contra', '0-2', 'Cinta Negra')",1592,Exolos
+2,"('Contra', '1-2', 'Cinta Negra')",1592,Exolos
+2,"('Contra', '2-0', 'Cinta Negra')",1592,Exolos
+2,"('Contra', '2-0', 'Exolos')",3296,Exolos
+2,"('Contra', '2-1', 'Cinta Negra')",1592,Exolos
+2,"('Contra', '2-1', 'Exolos')",3072,Exolos
+2,"('FUEGO', '0-2', 'AB3')",1184,Exolos
+2,"('FUEGO', '0-2', 'FUS')",2480,Exolos
+2,"('FUEGO', '1-2', 'AB3')",1088,Exolos
+2,"('FUEGO', '1-2', 'FUS')",2480,Exolos
+2,"('FUEGO', '2-0', 'AB3')",2048,Exolos
+2,"('FUEGO', '2-0', 'FUS')",704,Exolos
+2,"('FUEGO', '2-1', 'AB3')",2048,Exolos
+2,"('FUEGO', '2-1', 'FUS')",704,Exolos
+3,"('6K', '0-2', 'FUS')",576,Exolos
+3,"('6K', '1-2', 'FUS')",608,Exolos
+3,"('6K', '2-0', 'FUS')",640,Exolos
+3,"('6K', '2-1', 'FUS')",576,Exolos
+3,"('AB3', '2-0', 'Exolos')",1376,Exolos
+3,"('AB3', '2-1', 'Exolos')",1024,Exolos
+3,"('CHV', '0-2', '6K')",672,Exolos
+3,"('CHV', '0-2', 'Cinta Negra')",600,Exolos
+3,"('CHV', '1-2', '6K')",640,Exolos
+3,"('CHV', '1-2', 'Cinta Negra')",600,Exolos
+3,"('CHV', '2-0', '6K')",512,Exolos
+3,"('CHV', '2-0', 'Cinta Negra')",600,Exolos
+3,"('CHV', '2-1', '6K')",576,Exolos
+3,"('CHV', '2-1', 'Cinta Negra')",600,Exolos
+3,"('Contra', '0-2', 'Cinta Negra')",600,Exolos
+3,"('Contra', '1-2', 'Cinta Negra')",600,Exolos
+3,"('Contra', '2-0', 'Cinta Negra')",600,Exolos
+3,"('Contra', '2-0', 'Exolos')",1376,Exolos
+3,"('Contra', '2-1', 'Cinta Negra')",600,Exolos
+3,"('Contra', '2-1', 'Exolos')",1024,Exolos
+3,"('FUEGO', '0-2', 'AB3')",1344,Exolos
+3,"('FUEGO', '0-2', 'FUS')",656,Exolos
+3,"('FUEGO', '1-2', 'AB3')",1056,Exolos
+3,"('FUEGO', '1-2', 'FUS')",656,Exolos
+3,"('FUEGO', '2-0', 'FUS')",544,Exolos
+3,"('FUEGO', '2-1', 'FUS')",544,Exolos
+4,"('6K', '1-2', 'FUS')",32,Exolos
+4,"('AB3', '2-0', 'Exolos')",32,Exolos
+4,"('CHV', '0-2', '6K')",32,Exolos
+4,"('CHV', '0-2', 'Cinta Negra')",8,Exolos
+4,"('CHV', '1-2', 'Cinta Negra')",8,Exolos
+4,"('CHV', '2-0', 'Cinta Negra')",8,Exolos
+4,"('CHV', '2-1', 'Cinta Negra')",8,Exolos
+4,"('Contra', '0-2', 'Cinta Negra')",8,Exolos
+4,"('Contra', '1-2', 'Cinta Negra')",8,Exolos
+4,"('Contra', '2-0', 'Cinta Negra')",8,Exolos
+4,"('Contra', '2-0', 'Exolos')",32,Exolos
+4,"('Contra', '2-1', 'Cinta Negra')",8,Exolos
+4,"('FUEGO', '0-2', 'AB3')",32,Exolos
+4,"('FUEGO', '0-2', 'FUS')",16,Exolos
+4,"('FUEGO', '1-2', 'FUS')",16,Exolos
+1,"('6K', '1-2', 'FUS')",64,6K
+1,"('6K', '2-0', 'FUS')",2176,6K
+1,"('6K', '2-1', 'FUS')",2048,6K
+1,"('AB3', '2-0', 'Exolos')",2240,6K
+1,"('AB3', '2-1', 'Exolos')",2048,6K
+1,"('CHV', '0-2', '6K')",2112,6K
+1,"('CHV', '0-2', 'Cinta Negra')",1072,6K
+1,"('CHV', '1-2', '6K')",2048,6K
+1,"('CHV', '1-2', 'Cinta Negra')",1072,6K
+1,"('CHV', '2-0', 'Cinta Negra')",1072,6K
+1,"('CHV', '2-1', '6K')",128,6K
+1,"('CHV', '2-1', 'Cinta Negra')",1072,6K
+1,"('Contra', '0-2', 'Cinta Negra')",1072,6K
+1,"('Contra', '1-2', 'Cinta Negra')",1072,6K
+1,"('Contra', '2-0', 'Cinta Negra')",1072,6K
+1,"('Contra', '2-0', 'Exolos')",2240,6K
+1,"('Contra', '2-1', 'Cinta Negra')",1072,6K
+1,"('Contra', '2-1', 'Exolos')",2048,6K
+1,"('FUEGO', '0-2', 'AB3')",1120,6K
+1,"('FUEGO', '0-2', 'FUS')",1056,6K
+1,"('FUEGO', '1-2', 'AB3')",1120,6K
+1,"('FUEGO', '1-2', 'FUS')",1056,6K
+1,"('FUEGO', '2-0', 'AB3')",1024,6K
+1,"('FUEGO', '2-0', 'FUS')",1088,6K
+1,"('FUEGO', '2-1', 'AB3')",1024,6K
+1,"('FUEGO', '2-1', 'FUS')",1088,6K
+2,"('6K', '0-2', 'FUS')",256,6K
+2,"('6K', '1-2', 'FUS')",448,6K
+2,"('6K', '2-0', 'FUS')",14080,6K
+2,"('6K', '2-1', 'FUS')",13824,6K
+2,"('AB3', '0-2', 'Exolos')",8192,6K
+2,"('AB3', '1-2', 'Exolos')",8192,6K
+2,"('AB3', '2-0', 'Exolos')",5760,6K
+2,"('AB3', '2-1', 'Exolos')",6464,6K
+2,"('CHV', '0-2', '6K')",6592,6K
+2,"('CHV', '0-2', 'Cinta Negra')",7152,6K
+2,"('CHV', '1-2', '6K')",6400,6K
+2,"('CHV', '1-2', 'Cinta Negra')",7152,6K
+2,"('CHV', '2-0', '6K')",7680,6K
+2,"('CHV', '2-0', 'Cinta Negra')",7152,6K
+2,"('CHV', '2-1', '6K')",7936,6K
+2,"('CHV', '2-1', 'Cinta Negra')",7152,6K
+2,"('Contra', '0-2', 'Cinta Negra')",7152,6K
+2,"('Contra', '0-2', 'Exolos')",8192,6K
+2,"('Contra', '1-2', 'Cinta Negra')",7152,6K
+2,"('Contra', '1-2', 'Exolos')",8192,6K
+2,"('Contra', '2-0', 'Cinta Negra')",7152,6K
+2,"('Contra', '2-0', 'Exolos')",6048,6K
+2,"('Contra', '2-1', 'Cinta Negra')",7152,6K
+2,"('Contra', '2-1', 'Exolos')",6176,6K
+2,"('FUEGO', '0-2', 'AB3')",6848,6K
+2,"('FUEGO', '0-2', 'FUS')",7008,6K
+2,"('FUEGO', '1-2', 'AB3')",7424,6K
+2,"('FUEGO', '1-2', 'FUS')",7008,6K
+2,"('FUEGO', '2-0', 'AB3')",7168,6K
+2,"('FUEGO', '2-0', 'FUS')",7296,6K
+2,"('FUEGO', '2-1', 'AB3')",7168,6K
+2,"('FUEGO', '2-1', 'FUS')",7296,6K
+3,"('6K', '0-2', 'FUS')",11776,6K
+3,"('6K', '1-2', 'FUS')",12480,6K
+3,"('6K', '2-0', 'FUS')",128,6K
+3,"('6K', '2-1', 'FUS')",512,6K
+3,"('AB3', '0-2', 'Exolos')",7040,6K
+3,"('AB3', '1-2', 'Exolos')",6656,6K
+3,"('AB3', '2-0', 'Exolos')",5568,6K
+3,"('AB3', '2-1', 'Exolos')",5632,6K
+3,"('CHV', '0-2', '6K')",7616,6K
+3,"('CHV', '0-2', 'Cinta Negra')",7056,6K
+3,"('CHV', '1-2', '6K')",7680,6K
+3,"('CHV', '1-2', 'Cinta Negra')",7056,6K
+3,"('CHV', '2-0', '6K')",4608,6K
+3,"('CHV', '2-0', 'Cinta Negra')",5392,6K
+3,"('CHV', '2-1', '6K')",4992,6K
+3,"('CHV', '2-1', 'Cinta Negra')",5392,6K
+3,"('Contra', '0-2', 'Cinta Negra')",6224,6K
+3,"('Contra', '0-2', 'Exolos')",6336,6K
+3,"('Contra', '1-2', 'Cinta Negra')",6224,6K
+3,"('Contra', '1-2', 'Exolos')",6336,6K
+3,"('Contra', '2-0', 'Cinta Negra')",6224,6K
+3,"('Contra', '2-0', 'Exolos')",6080,6K
+3,"('Contra', '2-1', 'Cinta Negra')",6224,6K
+3,"('Contra', '2-1', 'Exolos')",6144,6K
+3,"('FUEGO', '0-2', 'AB3')",5600,6K
+3,"('FUEGO', '0-2', 'FUS')",6304,6K
+3,"('FUEGO', '1-2', 'AB3')",5600,6K
+3,"('FUEGO', '1-2', 'FUS')",6304,6K
+3,"('FUEGO', '2-0', 'AB3')",7040,6K
+3,"('FUEGO', '2-0', 'FUS')",6144,6K
+3,"('FUEGO', '2-1', 'AB3')",6656,6K
+3,"('FUEGO', '2-1', 'FUS')",6144,6K
+4,"('6K', '0-2', 'FUS')",3328,6K
+4,"('6K', '1-2', 'FUS')",2368,6K
+4,"('AB3', '0-2', 'Exolos')",1152,6K
+4,"('AB3', '1-2', 'Exolos')",1536,6K
+4,"('AB3', '2-0', 'Exolos')",1792,6K
+4,"('AB3', '2-1', 'Exolos')",1216,6K
+4,"('CHV', '0-2', '6K')",64,6K
+4,"('CHV', '0-2', 'Cinta Negra')",1104,6K
+4,"('CHV', '1-2', '6K')",256,6K
+4,"('CHV', '1-2', 'Cinta Negra')",1104,6K
+4,"('CHV', '2-0', '6K')",3072,6K
+4,"('CHV', '2-0', 'Cinta Negra')",1744,6K
+4,"('CHV', '2-1', '6K')",2304,6K
+4,"('CHV', '2-1', 'Cinta Negra')",1744,6K
+4,"('Contra', '0-2', 'Cinta Negra')",1424,6K
+4,"('Contra', '0-2', 'Exolos')",1344,6K
+4,"('Contra', '1-2', 'Cinta Negra')",1424,6K
+4,"('Contra', '1-2', 'Exolos')",1344,6K
+4,"('Contra', '2-0', 'Cinta Negra')",1424,6K
+4,"('Contra', '2-0', 'Exolos')",1504,6K
+4,"('Contra', '2-1', 'Cinta Negra')",1424,6K
+4,"('Contra', '2-1', 'Exolos')",1504,6K
+4,"('FUEGO', '0-2', 'AB3')",1792,6K
+4,"('FUEGO', '0-2', 'FUS')",1504,6K
+4,"('FUEGO', '1-2', 'AB3')",1216,6K
+4,"('FUEGO', '1-2', 'FUS')",1504,6K
+4,"('FUEGO', '2-0', 'AB3')",1152,6K
+4,"('FUEGO', '2-0', 'FUS')",1344,6K
+4,"('FUEGO', '2-1', 'AB3')",1536,6K
+4,"('FUEGO', '2-1', 'FUS')",1344,6K
+5,"('6K', '0-2', 'FUS')",1024,6K
+5,"('6K', '1-2', 'FUS')",1024,6K
+5,"('AB3', '2-0', 'Exolos')",1024,6K
+5,"('AB3', '2-1', 'Exolos')",1024,6K
+5,"('CHV', '2-0', '6K')",1024,6K
+5,"('CHV', '2-0', 'Cinta Negra')",1024,6K
+5,"('CHV', '2-1', '6K')",1024,6K
+5,"('CHV', '2-1', 'Cinta Negra')",1024,6K
+5,"('Contra', '0-2', 'Cinta Negra')",512,6K
+5,"('Contra', '0-2', 'Exolos')",512,6K
+5,"('Contra', '1-2', 'Cinta Negra')",512,6K
+5,"('Contra', '1-2', 'Exolos')",512,6K
+5,"('Contra', '2-0', 'Cinta Negra')",512,6K
+5,"('Contra', '2-0', 'Exolos')",512,6K
+5,"('Contra', '2-1', 'Cinta Negra')",512,6K
+5,"('Contra', '2-1', 'Exolos')",512,6K
+5,"('FUEGO', '0-2', 'AB3')",1024,6K
+5,"('FUEGO', '0-2', 'FUS')",512,6K
+5,"('FUEGO', '1-2', 'AB3')",1024,6K
+5,"('FUEGO', '1-2', 'FUS')",512,6K
+5,"('FUEGO', '2-0', 'FUS')",512,6K
+5,"('FUEGO', '2-1', 'FUS')",512,6K
+1,"('6K', '0-2', 'FUS')",2048,FUS
+1,"('6K', '1-2', 'FUS')",2048,FUS
+1,"('AB3', '2-0', 'Exolos')",2048,FUS
+1,"('AB3', '2-1', 'Exolos')",2048,FUS
+1,"('CHV', '0-2', '6K')",1024,FUS
+1,"('CHV', '0-2', 'Cinta Negra')",1024,FUS
+1,"('CHV', '1-2', '6K')",1024,FUS
+1,"('CHV', '1-2', 'Cinta Negra')",1024,FUS
+1,"('CHV', '2-0', '6K')",1024,FUS
+1,"('CHV', '2-0', 'Cinta Negra')",1024,FUS
+1,"('CHV', '2-1', '6K')",1024,FUS
+1,"('CHV', '2-1', 'Cinta Negra')",1024,FUS
+1,"('Contra', '0-2', 'Cinta Negra')",1024,FUS
+1,"('Contra', '1-2', 'Cinta Negra')",1024,FUS
+1,"('Contra', '2-0', 'Cinta Negra')",1024,FUS
+1,"('Contra', '2-0', 'Exolos')",2048,FUS
+1,"('Contra', '2-1', 'Cinta Negra')",1024,FUS
+1,"('Contra', '2-1', 'Exolos')",2048,FUS
+1,"('FUEGO', '0-2', 'AB3')",1024,FUS
+1,"('FUEGO', '0-2', 'FUS')",2048,FUS
+1,"('FUEGO', '1-2', 'AB3')",1024,FUS
+1,"('FUEGO', '1-2', 'FUS')",2048,FUS
+1,"('FUEGO', '2-0', 'AB3')",1024,FUS
+1,"('FUEGO', '2-1', 'AB3')",1024,FUS
+2,"('6K', '0-2', 'FUS')",13376,FUS
+2,"('6K', '1-2', 'FUS')",13312,FUS
+2,"('AB3', '0-2', 'Exolos')",8192,FUS
+2,"('AB3', '1-2', 'Exolos')",8192,FUS
+2,"('AB3', '2-0', 'Exolos')",5120,FUS
+2,"('AB3', '2-1', 'Exolos')",5184,FUS
+2,"('CHV', '0-2', '6K')",6656,FUS
+2,"('CHV', '0-2', 'Cinta Negra')",6672,FUS
+2,"('CHV', '1-2', '6K')",6656,FUS
+2,"('CHV', '1-2', 'Cinta Negra')",6672,FUS
+2,"('CHV', '2-0', '6K')",6688,FUS
+2,"('CHV', '2-0', 'Cinta Negra')",6672,FUS
+2,"('CHV', '2-1', '6K')",6688,FUS
+2,"('CHV', '2-1', 'Cinta Negra')",6672,FUS
+2,"('Contra', '0-2', 'Cinta Negra')",6672,FUS
+2,"('Contra', '0-2', 'Exolos')",8192,FUS
+2,"('Contra', '1-2', 'Cinta Negra')",6672,FUS
+2,"('Contra', '1-2', 'Exolos')",8192,FUS
+2,"('Contra', '2-0', 'Cinta Negra')",6672,FUS
+2,"('Contra', '2-0', 'Exolos')",5152,FUS
+2,"('Contra', '2-1', 'Cinta Negra')",6672,FUS
+2,"('Contra', '2-1', 'Exolos')",5152,FUS
+2,"('FUEGO', '0-2', 'AB3')",6144,FUS
+2,"('FUEGO', '0-2', 'FUS')",6144,FUS
+2,"('FUEGO', '1-2', 'AB3')",6208,FUS
+2,"('FUEGO', '1-2', 'FUS')",6144,FUS
+2,"('FUEGO', '2-0', 'AB3')",7168,FUS
+2,"('FUEGO', '2-0', 'FUS')",7168,FUS
+2,"('FUEGO', '2-1', 'AB3')",7168,FUS
+2,"('FUEGO', '2-1', 'FUS')",7232,FUS
+3,"('6K', '0-2', 'FUS')",512,FUS
+3,"('6K', '1-2', 'FUS')",512,FUS
+3,"('6K', '2-0', 'FUS')",13312,FUS
+3,"('6K', '2-1', 'FUS')",13440,FUS
+3,"('AB3', '0-2', 'Exolos')",8192,FUS
+3,"('AB3', '1-2', 'Exolos')",8192,FUS
+3,"('AB3', '2-0', 'Exolos')",5632,FUS
+3,"('AB3', '2-1', 'Exolos')",5760,FUS
+3,"('CHV', '0-2', '6K')",6720,FUS
+3,"('CHV', '0-2', 'Cinta Negra')",6944,FUS
+3,"('CHV', '1-2', '6K')",6720,FUS
+3,"('CHV', '1-2', 'Cinta Negra')",6944,FUS
+3,"('CHV', '2-0', '6K')",7168,FUS
+3,"('CHV', '2-0', 'Cinta Negra')",6944,FUS
+3,"('CHV', '2-1', '6K')",7168,FUS
+3,"('CHV', '2-1', 'Cinta Negra')",6944,FUS
+3,"('Contra', '0-2', 'Cinta Negra')",6944,FUS
+3,"('Contra', '0-2', 'Exolos')",7168,FUS
+3,"('Contra', '1-2', 'Cinta Negra')",6944,FUS
+3,"('Contra', '1-2', 'Exolos')",7168,FUS
+3,"('Contra', '2-0', 'Cinta Negra')",6944,FUS
+3,"('Contra', '2-0', 'Exolos')",6720,FUS
+3,"('Contra', '2-1', 'Cinta Negra')",6944,FUS
+3,"('Contra', '2-1', 'Exolos')",6720,FUS
+3,"('FUEGO', '0-2', 'AB3')",5632,FUS
+3,"('FUEGO', '0-2', 'FUS')",7296,FUS
+3,"('FUEGO', '1-2', 'AB3')",5760,FUS
+3,"('FUEGO', '1-2', 'FUS')",7168,FUS
+3,"('FUEGO', '2-0', 'AB3')",8192,FUS
+3,"('FUEGO', '2-0', 'FUS')",6656,FUS
+3,"('FUEGO', '2-1', 'AB3')",8192,FUS
+3,"('FUEGO', '2-1', 'FUS')",6656,FUS
+4,"('6K', '0-2', 'FUS')",448,FUS
+4,"('6K', '1-2', 'FUS')",512,FUS
+4,"('6K', '2-0', 'FUS')",3072,FUS
+4,"('6K', '2-1', 'FUS')",2944,FUS
+4,"('AB3', '2-0', 'Exolos')",3584,FUS
+4,"('AB3', '2-1', 'Exolos')",3392,FUS
+4,"('CHV', '0-2', '6K')",1984,FUS
+4,"('CHV', '0-2', 'Cinta Negra')",1744,FUS
+4,"('CHV', '1-2', '6K')",1984,FUS
+4,"('CHV', '1-2', 'Cinta Negra')",1744,FUS
+4,"('CHV', '2-0', '6K')",1504,FUS
+4,"('CHV', '2-0', 'Cinta Negra')",1744,FUS
+4,"('CHV', '2-1', '6K')",1504,FUS
+4,"('CHV', '2-1', 'Cinta Negra')",1744,FUS
+4,"('Contra', '0-2', 'Cinta Negra')",1744,FUS
+4,"('Contra', '0-2', 'Exolos')",1024,FUS
+4,"('Contra', '1-2', 'Cinta Negra')",1744,FUS
+4,"('Contra', '1-2', 'Exolos')",1024,FUS
+4,"('Contra', '2-0', 'Cinta Negra')",1744,FUS
+4,"('Contra', '2-0', 'Exolos')",2464,FUS
+4,"('Contra', '2-1', 'Cinta Negra')",1744,FUS
+4,"('Contra', '2-1', 'Exolos')",2464,FUS
+4,"('FUEGO', '0-2', 'AB3')",3584,FUS
+4,"('FUEGO', '0-2', 'FUS')",896,FUS
+4,"('FUEGO', '1-2', 'AB3')",3392,FUS
+4,"('FUEGO', '1-2', 'FUS')",1024,FUS
+4,"('FUEGO', '2-0', 'FUS')",2560,FUS
+4,"('FUEGO', '2-1', 'FUS')",2496,FUS
+1,"('6K', '0-2', 'FUS')",128,AB3
+1,"('6K', '1-2', 'FUS')",96,AB3
+1,"('6K', '2-0', 'FUS')",64,AB3
+1,"('6K', '2-1', 'FUS')",128,AB3
+1,"('AB3', '2-0', 'Exolos')",416,AB3
+1,"('CHV', '0-2', '6K')",32,AB3
+1,"('CHV', '0-2', 'Cinta Negra')",104,AB3
+1,"('CHV', '1-2', '6K')",64,AB3
+1,"('CHV', '1-2', 'Cinta Negra')",104,AB3
+1,"('CHV', '2-0', '6K')",192,AB3
+1,"('CHV', '2-0', 'Cinta Negra')",104,AB3
+1,"('CHV', '2-1', '6K')",128,AB3
+1,"('CHV', '2-1', 'Cinta Negra')",104,AB3
+1,"('Contra', '0-2', 'Cinta Negra')",104,AB3
+1,"('Contra', '1-2', 'Cinta Negra')",104,AB3
+1,"('Contra', '2-0', 'Cinta Negra')",104,AB3
+1,"('Contra', '2-0', 'Exolos')",416,AB3
+1,"('Contra', '2-1', 'Cinta Negra')",104,AB3
+1,"('FUEGO', '0-2', 'AB3')",416,AB3
+1,"('FUEGO', '0-2', 'FUS')",48,AB3
+1,"('FUEGO', '1-2', 'FUS')",48,AB3
+1,"('FUEGO', '2-0', 'FUS')",160,AB3
+1,"('FUEGO', '2-1', 'FUS')",160,AB3
+2,"('6K', '0-2', 'FUS')",1152,AB3
+2,"('6K', '1-2', 'FUS')",1056,AB3
+2,"('6K', '2-0', 'FUS')",704,AB3
+2,"('6K', '2-1', 'FUS')",960,AB3
+2,"('AB3', '2-0', 'Exolos')",2208,AB3
+2,"('AB3', '2-1', 'Exolos')",1664,AB3
+2,"('CHV', '0-2', '6K')",672,AB3
+2,"('CHV', '0-2', 'Cinta Negra')",968,AB3
+2,"('CHV', '1-2', '6K')",832,AB3
+2,"('CHV', '1-2', 'Cinta Negra')",968,AB3
+2,"('CHV', '2-0', '6K')",1312,AB3
+2,"('CHV', '2-0', 'Cinta Negra')",968,AB3
+2,"('CHV', '2-1', '6K')",1056,AB3
+2,"('CHV', '2-1', 'Cinta Negra')",968,AB3
+2,"('Contra', '0-2', 'Cinta Negra')",968,AB3
+2,"('Contra', '1-2', 'Cinta Negra')",968,AB3
+2,"('Contra', '2-0', 'Cinta Negra')",968,AB3
+2,"('Contra', '2-0', 'Exolos')",1888,AB3
+2,"('Contra', '2-1', 'Cinta Negra')",968,AB3
+2,"('Contra', '2-1', 'Exolos')",1984,AB3
+2,"('FUEGO', '0-2', 'AB3')",2208,AB3
+2,"('FUEGO', '0-2', 'FUS')",752,AB3
+2,"('FUEGO', '1-2', 'AB3')",1664,AB3
+2,"('FUEGO', '1-2', 'FUS')",752,AB3
+2,"('FUEGO', '2-0', 'FUS')",1216,AB3
+2,"('FUEGO', '2-1', 'FUS')",1152,AB3
+3,"('6K', '0-2', 'FUS')",2496,AB3
+3,"('6K', '1-2', 'FUS')",1760,AB3
+3,"('6K', '2-0', 'FUS')",2304,AB3
+3,"('6K', '2-1', 'FUS')",1856,AB3
+3,"('AB3', '0-2', 'Exolos')",128,AB3
+3,"('AB3', '1-2', 'Exolos')",512,AB3
+3,"('AB3', '2-0', 'Exolos')",3808,AB3
+3,"('AB3', '2-1', 'Exolos')",3968,AB3
+3,"('CHV', '0-2', '6K')",1376,AB3
+3,"('CHV', '0-2', 'Cinta Negra')",1784,AB3
+3,"('CHV', '1-2', '6K')",1344,AB3
+3,"('CHV', '1-2', 'Cinta Negra')",1784,AB3
+3,"('CHV', '2-0', '6K')",3072,AB3
+3,"('CHV', '2-0', 'Cinta Negra')",2424,AB3
+3,"('CHV', '2-1', '6K')",2624,AB3
+3,"('CHV', '2-1', 'Cinta Negra')",2424,AB3
+3,"('Contra', '0-2', 'Cinta Negra')",2104,AB3
+3,"('Contra', '0-2', 'Exolos')",2368,AB3
+3,"('Contra', '1-2', 'Cinta Negra')",2104,AB3
+3,"('Contra', '1-2', 'Exolos')",2368,AB3
+3,"('Contra', '2-0', 'Cinta Negra')",2104,AB3
+3,"('Contra', '2-0', 'Exolos')",1696,AB3
+3,"('Contra', '2-1', 'Cinta Negra')",2104,AB3
+3,"('Contra', '2-1', 'Exolos')",1984,AB3
+3,"('FUEGO', '0-2', 'AB3')",3808,AB3
+3,"('FUEGO', '0-2', 'FUS')",1616,AB3
+3,"('FUEGO', '1-2', 'AB3')",3968,AB3
+3,"('FUEGO', '1-2', 'FUS')",1744,AB3
+3,"('FUEGO', '2-0', 'AB3')",128,AB3
+3,"('FUEGO', '2-0', 'FUS')",2528,AB3
+3,"('FUEGO', '2-1', 'AB3')",512,AB3
+3,"('FUEGO', '2-1', 'FUS')",2528,AB3
+4,"('6K', '0-2', 'FUS')",11200,AB3
+4,"('6K', '1-2', 'FUS')",12064,AB3
+4,"('6K', '2-0', 'FUS')",11904,AB3
+4,"('6K', '2-1', 'FUS')",12032,AB3
+4,"('AB3', '0-2', 'Exolos')",13440,AB3
+4,"('AB3', '1-2', 'Exolos')",13056,AB3
+4,"('AB3', '2-0', 'Exolos')",9952,AB3
+4,"('AB3', '2-1', 'Exolos')",10752,AB3
+4,"('CHV', '0-2', '6K')",13536,AB3
+4,"('CHV', '0-2', 'Cinta Negra')",12760,AB3
+4,"('CHV', '1-2', '6K')",13376,AB3
+4,"('CHV', '1-2', 'Cinta Negra')",12760,AB3
+4,"('CHV', '2-0', '6K')",9760,AB3
+4,"('CHV', '2-0', 'Cinta Negra')",10840,AB3
+4,"('CHV', '2-1', '6K')",10528,AB3
+4,"('CHV', '2-1', 'Cinta Negra')",10840,AB3
+4,"('Contra', '0-2', 'Cinta Negra')",11672,AB3
+4,"('Contra', '0-2', 'Exolos')",12480,AB3
+4,"('Contra', '1-2', 'Cinta Negra')",11672,AB3
+4,"('Contra', '1-2', 'Exolos')",12480,AB3
+4,"('Contra', '2-0', 'Cinta Negra')",11928,AB3
+4,"('Contra', '2-0', 'Exolos')",11104,AB3
+4,"('Contra', '2-1', 'Cinta Negra')",11928,AB3
+4,"('Contra', '2-1', 'Exolos')",11136,AB3
+4,"('FUEGO', '0-2', 'AB3')",9952,AB3
+4,"('FUEGO', '0-2', 'FUS')",12944,AB3
+4,"('FUEGO', '1-2', 'AB3')",10752,AB3
+4,"('FUEGO', '1-2', 'FUS')",12816,AB3
+4,"('FUEGO', '2-0', 'AB3')",13440,AB3
+4,"('FUEGO', '2-0', 'FUS')",10688,AB3
+4,"('FUEGO', '2-1', 'AB3')",13056,AB3
+4,"('FUEGO', '2-1', 'FUS')",10752,AB3
+5,"('6K', '0-2', 'FUS')",1024,AB3
+5,"('6K', '1-2', 'FUS')",1024,AB3
+5,"('6K', '2-0', 'FUS')",1024,AB3
+5,"('6K', '2-1', 'FUS')",1024,AB3
+5,"('AB3', '0-2', 'Exolos')",2048,AB3
+5,"('AB3', '1-2', 'Exolos')",2048,AB3
+5,"('CHV', '0-2', '6K')",768,AB3
+5,"('CHV', '0-2', 'Cinta Negra')",768,AB3
+5,"('CHV', '1-2', '6K')",768,AB3
+5,"('CHV', '1-2', 'Cinta Negra')",768,AB3
+5,"('CHV', '2-0', '6K')",1280,AB3
+5,"('CHV', '2-0', 'Cinta Negra')",1280,AB3
+5,"('CHV', '2-1', '6K')",1280,AB3
+5,"('CHV', '2-1', 'Cinta Negra')",1280,AB3
+5,"('Contra', '0-2', 'Cinta Negra')",1024,AB3
+5,"('Contra', '0-2', 'Exolos')",1024,AB3
+5,"('Contra', '1-2', 'Cinta Negra')",1024,AB3
+5,"('Contra', '1-2', 'Exolos')",1024,AB3
+5,"('Contra', '2-0', 'Cinta Negra')",1024,AB3
+5,"('Contra', '2-0', 'Exolos')",1024,AB3
+5,"('Contra', '2-1', 'Cinta Negra')",1024,AB3
+5,"('Contra', '2-1', 'Exolos')",1024,AB3
+5,"('FUEGO', '0-2', 'FUS')",1024,AB3
+5,"('FUEGO', '1-2', 'FUS')",1024,AB3
+5,"('FUEGO', '2-0', 'AB3')",2048,AB3
+5,"('FUEGO', '2-0', 'FUS')",1024,AB3
+5,"('FUEGO', '2-1', 'AB3')",2048,AB3
+5,"('FUEGO', '2-1', 'FUS')",1024,AB3
+6,"('6K', '0-2', 'FUS')",384,AB3
+6,"('6K', '1-2', 'FUS')",384,AB3
+6,"('6K', '2-0', 'FUS')",384,AB3
+6,"('6K', '2-1', 'FUS')",384,AB3
+6,"('AB3', '0-2', 'Exolos')",768,AB3
+6,"('AB3', '1-2', 'Exolos')",768,AB3
+6,"('CHV', '2-0', '6K')",768,AB3
+6,"('CHV', '2-0', 'Cinta Negra')",768,AB3
+6,"('CHV', '2-1', '6K')",768,AB3
+6,"('CHV', '2-1', 'Cinta Negra')",768,AB3
+6,"('Contra', '0-2', 'Cinta Negra')",512,AB3
+6,"('Contra', '0-2', 'Exolos')",512,AB3
+6,"('Contra', '1-2', 'Cinta Negra')",512,AB3
+6,"('Contra', '1-2', 'Exolos')",512,AB3
+6,"('Contra', '2-0', 'Cinta Negra')",256,AB3
+6,"('Contra', '2-0', 'Exolos')",256,AB3
+6,"('Contra', '2-1', 'Cinta Negra')",256,AB3
+6,"('Contra', '2-1', 'Exolos')",256,AB3
+6,"('FUEGO', '2-0', 'AB3')",768,AB3
+6,"('FUEGO', '2-0', 'FUS')",768,AB3
+6,"('FUEGO', '2-1', 'AB3')",768,AB3
+6,"('FUEGO', '2-1', 'FUS')",768,AB3
+3,"('6K', '0-2', 'FUS')",1024,CHV
+3,"('6K', '1-2', 'FUS')",1024,CHV
+3,"('AB3', '0-2', 'Exolos')",1024,CHV
+3,"('AB3', '1-2', 'Exolos')",1024,CHV
+3,"('CHV', '2-0', '6K')",1024,CHV
+3,"('CHV', '2-0', 'Cinta Negra')",1024,CHV
+3,"('CHV', '2-1', '6K')",1024,CHV
+3,"('CHV', '2-1', 'Cinta Negra')",1024,CHV
+3,"('Contra', '0-2', 'Cinta Negra')",512,CHV
+3,"('Contra', '0-2', 'Exolos')",512,CHV
+3,"('Contra', '1-2', 'Cinta Negra')",512,CHV
+3,"('Contra', '1-2', 'Exolos')",512,CHV
+3,"('Contra', '2-0', 'Cinta Negra')",512,CHV
+3,"('Contra', '2-0', 'Exolos')",512,CHV
+3,"('Contra', '2-1', 'Cinta Negra')",512,CHV
+3,"('Contra', '2-1', 'Exolos')",512,CHV
+3,"('FUEGO', '0-2', 'FUS')",512,CHV
+3,"('FUEGO', '1-2', 'FUS')",512,CHV
+3,"('FUEGO', '2-0', 'AB3')",1024,CHV
+3,"('FUEGO', '2-0', 'FUS')",512,CHV
+3,"('FUEGO', '2-1', 'AB3')",1024,CHV
+3,"('FUEGO', '2-1', 'FUS')",512,CHV
+4,"('6K', '0-2', 'FUS')",1024,CHV
+4,"('6K', '1-2', 'FUS')",1024,CHV
+4,"('6K', '2-0', 'FUS')",1024,CHV
+4,"('6K', '2-1', 'FUS')",1024,CHV
+4,"('AB3', '0-2', 'Exolos')",1024,CHV
+4,"('AB3', '1-2', 'Exolos')",1024,CHV
+4,"('AB3', '2-0', 'Exolos')",1024,CHV
+4,"('AB3', '2-1', 'Exolos')",1024,CHV
+4,"('CHV', '2-0', '6K')",2048,CHV
+4,"('CHV', '2-0', 'Cinta Negra')",2048,CHV
+4,"('CHV', '2-1', '6K')",2048,CHV
+4,"('CHV', '2-1', 'Cinta Negra')",2048,CHV
+4,"('Contra', '0-2', 'Cinta Negra')",1024,CHV
+4,"('Contra', '0-2', 'Exolos')",1024,CHV
+4,"('Contra', '1-2', 'Cinta Negra')",1024,CHV
+4,"('Contra', '1-2', 'Exolos')",1024,CHV
+4,"('Contra', '2-0', 'Cinta Negra')",1024,CHV
+4,"('Contra', '2-0', 'Exolos')",1024,CHV
+4,"('Contra', '2-1', 'Cinta Negra')",1024,CHV
+4,"('Contra', '2-1', 'Exolos')",1024,CHV
+4,"('FUEGO', '0-2', 'AB3')",1024,CHV
+4,"('FUEGO', '0-2', 'FUS')",1024,CHV
+4,"('FUEGO', '1-2', 'AB3')",1024,CHV
+4,"('FUEGO', '1-2', 'FUS')",1024,CHV
+4,"('FUEGO', '2-0', 'AB3')",1024,CHV
+4,"('FUEGO', '2-0', 'FUS')",1024,CHV
+4,"('FUEGO', '2-1', 'AB3')",1024,CHV
+4,"('FUEGO', '2-1', 'FUS')",1024,CHV
+5,"('6K', '0-2', 'FUS')",12032,CHV
+5,"('6K', '1-2', 'FUS')",12032,CHV
+5,"('6K', '2-0', 'FUS')",13056,CHV
+5,"('6K', '2-1', 'FUS')",13056,CHV
+5,"('AB3', '0-2', 'Exolos')",12032,CHV
+5,"('AB3', '1-2', 'Exolos')",12032,CHV
+5,"('AB3', '2-0', 'Exolos')",13056,CHV
+5,"('AB3', '2-1', 'Exolos')",13056,CHV
+5,"('CHV', '0-2', '6K')",11776,CHV
+5,"('CHV', '0-2', 'Cinta Negra')",11776,CHV
+5,"('CHV', '1-2', '6K')",11776,CHV
+5,"('CHV', '1-2', 'Cinta Negra')",11776,CHV
+5,"('CHV', '2-0', '6K')",13312,CHV
+5,"('CHV', '2-0', 'Cinta Negra')",13312,CHV
+5,"('CHV', '2-1', '6K')",13312,CHV
+5,"('CHV', '2-1', 'Cinta Negra')",13312,CHV
+5,"('Contra', '0-2', 'Cinta Negra')",12800,CHV
+5,"('Contra', '0-2', 'Exolos')",13312,CHV
+5,"('Contra', '1-2', 'Cinta Negra')",12800,CHV
+5,"('Contra', '1-2', 'Exolos')",13312,CHV
+5,"('Contra', '2-0', 'Cinta Negra')",12288,CHV
+5,"('Contra', '2-0', 'Exolos')",11776,CHV
+5,"('Contra', '2-1', 'Cinta Negra')",12288,CHV
+5,"('Contra', '2-1', 'Exolos')",11776,CHV
+5,"('FUEGO', '0-2', 'AB3')",13312,CHV
+5,"('FUEGO', '0-2', 'FUS')",12800,CHV
+5,"('FUEGO', '1-2', 'AB3')",13312,CHV
+5,"('FUEGO', '1-2', 'FUS')",12800,CHV
+5,"('FUEGO', '2-0', 'AB3')",11776,CHV
+5,"('FUEGO', '2-0', 'FUS')",12288,CHV
+5,"('FUEGO', '2-1', 'AB3')",11776,CHV
+5,"('FUEGO', '2-1', 'FUS')",12288,CHV
+6,"('6K', '0-2', 'FUS')",1536,CHV
+6,"('6K', '1-2', 'FUS')",1536,CHV
+6,"('6K', '2-0', 'FUS')",1536,CHV
+6,"('6K', '2-1', 'FUS')",1536,CHV
+6,"('AB3', '0-2', 'Exolos')",1536,CHV
+6,"('AB3', '1-2', 'Exolos')",1536,CHV
+6,"('AB3', '2-0', 'Exolos')",1536,CHV
+6,"('AB3', '2-1', 'Exolos')",1536,CHV
+6,"('CHV', '0-2', '6K')",3072,CHV
+6,"('CHV', '0-2', 'Cinta Negra')",3072,CHV
+6,"('CHV', '1-2', '6K')",3072,CHV
+6,"('CHV', '1-2', 'Cinta Negra')",3072,CHV
+6,"('Contra', '0-2', 'Cinta Negra')",1024,CHV
+6,"('Contra', '0-2', 'Exolos')",1024,CHV
+6,"('Contra', '1-2', 'Cinta Negra')",1024,CHV
+6,"('Contra', '1-2', 'Exolos')",1024,CHV
+6,"('Contra', '2-0', 'Cinta Negra')",2048,CHV
+6,"('Contra', '2-0', 'Exolos')",2048,CHV
+6,"('Contra', '2-1', 'Cinta Negra')",2048,CHV
+6,"('Contra', '2-1', 'Exolos')",2048,CHV
+6,"('FUEGO', '0-2', 'AB3')",2048,CHV
+6,"('FUEGO', '0-2', 'FUS')",2048,CHV
+6,"('FUEGO', '1-2', 'AB3')",2048,CHV
+6,"('FUEGO', '1-2', 'FUS')",2048,CHV
+6,"('FUEGO', '2-0', 'AB3')",1024,CHV
+6,"('FUEGO', '2-0', 'FUS')",1024,CHV
+6,"('FUEGO', '2-1', 'AB3')",1024,CHV
+6,"('FUEGO', '2-1', 'FUS')",1024,CHV
+7,"('6K', '0-2', 'FUS')",768,CHV
+7,"('6K', '1-2', 'FUS')",768,CHV
+7,"('6K', '2-0', 'FUS')",768,CHV
+7,"('6K', '2-1', 'FUS')",768,CHV
+7,"('AB3', '0-2', 'Exolos')",768,CHV
+7,"('AB3', '1-2', 'Exolos')",768,CHV
+7,"('AB3', '2-0', 'Exolos')",768,CHV
+7,"('AB3', '2-1', 'Exolos')",768,CHV
+7,"('CHV', '0-2', '6K')",1536,CHV
+7,"('CHV', '0-2', 'Cinta Negra')",1536,CHV
+7,"('CHV', '1-2', '6K')",1536,CHV
+7,"('CHV', '1-2', 'Cinta Negra')",1536,CHV
+7,"('Contra', '0-2', 'Cinta Negra')",1024,CHV
+7,"('Contra', '0-2', 'Exolos')",512,CHV
+7,"('Contra', '1-2', 'Cinta Negra')",1024,CHV
+7,"('Contra', '1-2', 'Exolos')",512,CHV
+7,"('Contra', '2-0', 'Cinta Negra')",512,CHV
+7,"('Contra', '2-0', 'Exolos')",1024,CHV
+7,"('Contra', '2-1', 'Cinta Negra')",512,CHV
+7,"('Contra', '2-1', 'Exolos')",1024,CHV
+7,"('FUEGO', '2-0', 'AB3')",1536,CHV
+7,"('FUEGO', '2-0', 'FUS')",1536,CHV
+7,"('FUEGO', '2-1', 'AB3')",1536,CHV
+7,"('FUEGO', '2-1', 'FUS')",1536,CHV
+5,"('6K', '0-2', 'FUS')",984,Contra
+5,"('6K', '1-2', 'FUS')",984,Contra
+5,"('6K', '2-0', 'FUS')",984,Contra
+5,"('6K', '2-1', 'FUS')",984,Contra
+5,"('AB3', '0-2', 'Exolos')",944,Contra
+5,"('AB3', '1-2', 'Exolos')",944,Contra
+5,"('AB3', '2-0', 'Exolos')",1024,Contra
+5,"('AB3', '2-1', 'Exolos')",1024,Contra
+5,"('CHV', '0-2', '6K')",1968,Contra
+5,"('CHV', '0-2', 'Cinta Negra')",1968,Contra
+5,"('CHV', '1-2', '6K')",1968,Contra
+5,"('CHV', '1-2', 'Cinta Negra')",1968,Contra
+5,"('Contra', '2-0', 'Cinta Negra')",2016,Contra
+5,"('Contra', '2-0', 'Exolos')",2016,Contra
+5,"('Contra', '2-1', 'Cinta Negra')",1920,Contra
+5,"('Contra', '2-1', 'Exolos')",1920,Contra
+5,"('FUEGO', '0-2', 'AB3')",1024,Contra
+5,"('FUEGO', '0-2', 'FUS')",1024,Contra
+5,"('FUEGO', '1-2', 'AB3')",1024,Contra
+5,"('FUEGO', '1-2', 'FUS')",1024,Contra
+5,"('FUEGO', '2-0', 'AB3')",896,Contra
+5,"('FUEGO', '2-0', 'FUS')",896,Contra
+5,"('FUEGO', '2-1', 'AB3')",992,Contra
+5,"('FUEGO', '2-1', 'FUS')",992,Contra
+6,"('6K', '0-2', 'FUS')",8128,Contra
+6,"('6K', '1-2', 'FUS')",8128,Contra
+6,"('6K', '2-0', 'FUS')",8128,Contra
+6,"('6K', '2-1', 'FUS')",8128,Contra
+6,"('AB3', '0-2', 'Exolos')",8048,Contra
+6,"('AB3', '1-2', 'Exolos')",8048,Contra
+6,"('AB3', '2-0', 'Exolos')",8208,Contra
+6,"('AB3', '2-1', 'Exolos')",8208,Contra
+6,"('CHV', '0-2', '6K')",7184,Contra
+6,"('CHV', '0-2', 'Cinta Negra')",5632,Contra
+6,"('CHV', '1-2', '6K')",7184,Contra
+6,"('CHV', '1-2', 'Cinta Negra')",6016,Contra
+6,"('CHV', '2-0', '6K')",9072,Contra
+6,"('CHV', '2-0', 'Cinta Negra')",10528,Contra
+6,"('CHV', '2-1', '6K')",9072,Contra
+6,"('CHV', '2-1', 'Cinta Negra')",10336,Contra
+6,"('Contra', '0-2', 'Cinta Negra')",3072,Contra
+6,"('Contra', '0-2', 'Exolos')",6336,Contra
+6,"('Contra', '1-2', 'Cinta Negra')",5184,Contra
+6,"('Contra', '1-2', 'Exolos')",6656,Contra
+6,"('Contra', '2-0', 'Cinta Negra')",12224,Contra
+6,"('Contra', '2-0', 'Exolos')",10176,Contra
+6,"('Contra', '2-1', 'Cinta Negra')",12032,Contra
+6,"('Contra', '2-1', 'Exolos')",9344,Contra
+6,"('FUEGO', '0-2', 'AB3')",9984,Contra
+6,"('FUEGO', '0-2', 'FUS')",9984,Contra
+6,"('FUEGO', '1-2', 'AB3')",9856,Contra
+6,"('FUEGO', '1-2', 'FUS')",9856,Contra
+6,"('FUEGO', '2-0', 'AB3')",6208,Contra
+6,"('FUEGO', '2-0', 'FUS')",6208,Contra
+6,"('FUEGO', '2-1', 'AB3')",6464,Contra
+6,"('FUEGO', '2-1', 'FUS')",6464,Contra
+7,"('6K', '0-2', 'FUS')",3256,Contra
+7,"('6K', '1-2', 'FUS')",3256,Contra
+7,"('6K', '2-0', 'FUS')",3256,Contra
+7,"('6K', '2-1', 'FUS')",3256,Contra
+7,"('AB3', '0-2', 'Exolos')",3376,Contra
+7,"('AB3', '1-2', 'Exolos')",3376,Contra
+7,"('AB3', '2-0', 'Exolos')",3136,Contra
+7,"('AB3', '2-1', 'Exolos')",3136,Contra
+7,"('CHV', '0-2', '6K')",3216,Contra
+7,"('CHV', '0-2', 'Cinta Negra')",4048,Contra
+7,"('CHV', '1-2', '6K')",3216,Contra
+7,"('CHV', '1-2', 'Cinta Negra')",3792,Contra
+7,"('CHV', '2-0', '6K')",3296,Contra
+7,"('CHV', '2-0', 'Cinta Negra')",2528,Contra
+7,"('CHV', '2-1', '6K')",3296,Contra
+7,"('CHV', '2-1', 'Cinta Negra')",2656,Contra
+7,"('Contra', '0-2', 'Cinta Negra')",4608,Contra
+7,"('Contra', '0-2', 'Exolos')",3456,Contra
+7,"('Contra', '1-2', 'Cinta Negra')",3840,Contra
+7,"('Contra', '1-2', 'Exolos')",3456,Contra
+7,"('Contra', '2-0', 'Cinta Negra')",2144,Contra
+7,"('Contra', '2-0', 'Exolos')",2912,Contra
+7,"('Contra', '2-1', 'Cinta Negra')",2432,Contra
+7,"('Contra', '2-1', 'Exolos')",3200,Contra
+7,"('FUEGO', '0-2', 'AB3')",3072,Contra
+7,"('FUEGO', '0-2', 'FUS')",3072,Contra
+7,"('FUEGO', '1-2', 'AB3')",2560,Contra
+7,"('FUEGO', '1-2', 'FUS')",2560,Contra
+7,"('FUEGO', '2-0', 'AB3')",3712,Contra
+7,"('FUEGO', '2-0', 'FUS')",3712,Contra
+7,"('FUEGO', '2-1', 'AB3')",3680,Contra
+7,"('FUEGO', '2-1', 'FUS')",3680,Contra
+4,"('6K', '0-2', 'FUS')",384,FUEGO
+4,"('6K', '1-2', 'FUS')",384,FUEGO
+4,"('6K', '2-0', 'FUS')",384,FUEGO
+4,"('6K', '2-1', 'FUS')",384,FUEGO
+4,"('AB3', '0-2', 'Exolos')",768,FUEGO
+4,"('AB3', '1-2', 'Exolos')",768,FUEGO
+4,"('CHV', '0-2', '6K')",768,FUEGO
+4,"('CHV', '0-2', 'Cinta Negra')",768,FUEGO
+4,"('CHV', '1-2', '6K')",768,FUEGO
+4,"('CHV', '1-2', 'Cinta Negra')",768,FUEGO
+4,"('Contra', '0-2', 'Cinta Negra')",512,FUEGO
+4,"('Contra', '0-2', 'Exolos')",512,FUEGO
+4,"('Contra', '1-2', 'Cinta Negra')",512,FUEGO
+4,"('Contra', '1-2', 'Exolos')",512,FUEGO
+4,"('Contra', '2-0', 'Cinta Negra')",256,FUEGO
+4,"('Contra', '2-0', 'Exolos')",256,FUEGO
+4,"('Contra', '2-1', 'Cinta Negra')",256,FUEGO
+4,"('Contra', '2-1', 'Exolos')",256,FUEGO
+4,"('FUEGO', '2-0', 'AB3')",768,FUEGO
+4,"('FUEGO', '2-0', 'FUS')",768,FUEGO
+4,"('FUEGO', '2-1', 'AB3')",768,FUEGO
+4,"('FUEGO', '2-1', 'FUS')",768,FUEGO
+5,"('6K', '0-2', 'FUS')",808,FUEGO
+5,"('6K', '1-2', 'FUS')",808,FUEGO
+5,"('6K', '2-0', 'FUS')",808,FUEGO
+5,"('6K', '2-1', 'FUS')",808,FUEGO
+5,"('AB3', '0-2', 'Exolos')",848,FUEGO
+5,"('AB3', '1-2', 'Exolos')",848,FUEGO
+5,"('AB3', '2-0', 'Exolos')",768,FUEGO
+5,"('AB3', '2-1', 'Exolos')",768,FUEGO
+5,"('CHV', '0-2', '6K')",848,FUEGO
+5,"('CHV', '0-2', 'Cinta Negra')",848,FUEGO
+5,"('CHV', '1-2', '6K')",848,FUEGO
+5,"('CHV', '1-2', 'Cinta Negra')",848,FUEGO
+5,"('CHV', '2-0', '6K')",768,FUEGO
+5,"('CHV', '2-0', 'Cinta Negra')",768,FUEGO
+5,"('CHV', '2-1', '6K')",768,FUEGO
+5,"('CHV', '2-1', 'Cinta Negra')",768,FUEGO
+5,"('Contra', '0-2', 'Cinta Negra')",1024,FUEGO
+5,"('Contra', '0-2', 'Exolos')",1024,FUEGO
+5,"('Contra', '1-2', 'Cinta Negra')",1024,FUEGO
+5,"('Contra', '1-2', 'Exolos')",1024,FUEGO
+5,"('Contra', '2-0', 'Cinta Negra')",544,FUEGO
+5,"('Contra', '2-0', 'Exolos')",544,FUEGO
+5,"('Contra', '2-1', 'Cinta Negra')",640,FUEGO
+5,"('Contra', '2-1', 'Exolos')",640,FUEGO
+5,"('FUEGO', '2-0', 'AB3')",1664,FUEGO
+5,"('FUEGO', '2-0', 'FUS')",1664,FUEGO
+5,"('FUEGO', '2-1', 'AB3')",1568,FUEGO
+5,"('FUEGO', '2-1', 'FUS')",1568,FUEGO
+6,"('6K', '0-2', 'FUS')",4144,FUEGO
+6,"('6K', '1-2', 'FUS')",4144,FUEGO
+6,"('6K', '2-0', 'FUS')",4144,FUEGO
+6,"('6K', '2-1', 'FUS')",4144,FUEGO
+6,"('AB3', '0-2', 'Exolos')",3840,FUEGO
+6,"('AB3', '1-2', 'Exolos')",3840,FUEGO
+6,"('AB3', '2-0', 'Exolos')",4448,FUEGO
+6,"('AB3', '2-1', 'Exolos')",4448,FUEGO
+6,"('CHV', '0-2', '6K')",3584,FUEGO
+6,"('CHV', '0-2', 'Cinta Negra')",3328,FUEGO
+6,"('CHV', '1-2', '6K')",3584,FUEGO
+6,"('CHV', '1-2', 'Cinta Negra')",3968,FUEGO
+6,"('CHV', '2-0', '6K')",4704,FUEGO
+6,"('CHV', '2-0', 'Cinta Negra')",4704,FUEGO
+6,"('CHV', '2-1', '6K')",4704,FUEGO
+6,"('CHV', '2-1', 'Cinta Negra')",4576,FUEGO
+6,"('Contra', '0-2', 'Cinta Negra')",6144,FUEGO
+6,"('Contra', '0-2', 'Exolos')",6144,FUEGO
+6,"('Contra', '1-2', 'Cinta Negra')",6528,FUEGO
+6,"('Contra', '1-2', 'Exolos')",6016,FUEGO
+6,"('Contra', '2-0', 'Cinta Negra')",1856,FUEGO
+6,"('Contra', '2-0', 'Exolos')",1984,FUEGO
+6,"('Contra', '2-1', 'Cinta Negra')",2048,FUEGO
+6,"('Contra', '2-1', 'Exolos')",2432,FUEGO
+6,"('FUEGO', '0-2', 'AB3')",1600,FUEGO
+6,"('FUEGO', '0-2', 'FUS')",1600,FUEGO
+6,"('FUEGO', '1-2', 'AB3')",2304,FUEGO
+6,"('FUEGO', '1-2', 'FUS')",2304,FUEGO
+6,"('FUEGO', '2-0', 'AB3')",6656,FUEGO
+6,"('FUEGO', '2-0', 'FUS')",6656,FUEGO
+6,"('FUEGO', '2-1', 'AB3')",6016,FUEGO
+6,"('FUEGO', '2-1', 'FUS')",6016,FUEGO
+7,"('6K', '0-2', 'FUS')",9256,FUEGO
+7,"('6K', '1-2', 'FUS')",9256,FUEGO
+7,"('6K', '2-0', 'FUS')",9256,FUEGO
+7,"('6K', '2-1', 'FUS')",9256,FUEGO
+7,"('AB3', '0-2', 'Exolos')",9136,FUEGO
+7,"('AB3', '1-2', 'Exolos')",9136,FUEGO
+7,"('AB3', '2-0', 'Exolos')",9376,FUEGO
+7,"('AB3', '2-1', 'Exolos')",9376,FUEGO
+7,"('CHV', '0-2', '6K')",9392,FUEGO
+7,"('CHV', '0-2', 'Cinta Negra')",8112,FUEGO
+7,"('CHV', '1-2', '6K')",9392,FUEGO
+7,"('CHV', '1-2', 'Cinta Negra')",7984,FUEGO
+7,"('CHV', '2-0', '6K')",9120,FUEGO
+7,"('CHV', '2-0', 'Cinta Negra')",10528,FUEGO
+7,"('CHV', '2-1', '6K')",9120,FUEGO
+7,"('CHV', '2-1', 'Cinta Negra')",10400,FUEGO
+7,"('Contra', '0-2', 'Cinta Negra')",5120,FUEGO
+7,"('Contra', '0-2', 'Exolos')",7296,FUEGO
+7,"('Contra', '1-2', 'Cinta Negra')",4736,FUEGO
+7,"('Contra', '1-2', 'Exolos')",7168,FUEGO
+7,"('Contra', '2-0', 'Cinta Negra')",13728,FUEGO
+7,"('Contra', '2-0', 'Exolos')",11296,FUEGO
+7,"('Contra', '2-1', 'Cinta Negra')",13440,FUEGO
+7,"('Contra', '2-1', 'Exolos')",11264,FUEGO
+7,"('FUEGO', '0-2', 'AB3')",11200,FUEGO
+7,"('FUEGO', '0-2', 'FUS')",11200,FUEGO
+7,"('FUEGO', '1-2', 'AB3')",11520,FUEGO
+7,"('FUEGO', '1-2', 'FUS')",11520,FUEGO
+7,"('FUEGO', '2-0', 'AB3')",7040,FUEGO
+7,"('FUEGO', '2-0', 'FUS')",7040,FUEGO
+7,"('FUEGO', '2-1', 'AB3')",7264,FUEGO
+7,"('FUEGO', '2-1', 'FUS')",7264,FUEGO
+5,"('6K', '0-2', 'FUS')",512,Cinta Negra
+5,"('6K', '1-2', 'FUS')",512,Cinta Negra
+5,"('6K', '2-0', 'FUS')",512,Cinta Negra
+5,"('6K', '2-1', 'FUS')",512,Cinta Negra
+5,"('AB3', '0-2', 'Exolos')",512,Cinta Negra
+5,"('AB3', '1-2', 'Exolos')",512,Cinta Negra
+5,"('AB3', '2-0', 'Exolos')",512,Cinta Negra
+5,"('AB3', '2-1', 'Exolos')",512,Cinta Negra
+5,"('CHV', '0-2', '6K')",1024,Cinta Negra
+5,"('CHV', '0-2', 'Cinta Negra')",1024,Cinta Negra
+5,"('CHV', '1-2', '6K')",1024,Cinta Negra
+5,"('CHV', '1-2', 'Cinta Negra')",1024,Cinta Negra
+5,"('Contra', '0-2', 'Cinta Negra')",1024,Cinta Negra
+5,"('Contra', '0-2', 'Exolos')",512,Cinta Negra
+5,"('Contra', '1-2', 'Cinta Negra')",1024,Cinta Negra
+5,"('Contra', '1-2', 'Exolos')",512,Cinta Negra
+5,"('Contra', '2-0', 'Exolos')",512,Cinta Negra
+5,"('Contra', '2-1', 'Exolos')",512,Cinta Negra
+5,"('FUEGO', '0-2', 'AB3')",1024,Cinta Negra
+5,"('FUEGO', '0-2', 'FUS')",1024,Cinta Negra
+5,"('FUEGO', '1-2', 'AB3')",1024,Cinta Negra
+5,"('FUEGO', '1-2', 'FUS')",1024,Cinta Negra
+6,"('6K', '0-2', 'FUS')",2192,Cinta Negra
+6,"('6K', '1-2', 'FUS')",2192,Cinta Negra
+6,"('6K', '2-0', 'FUS')",2192,Cinta Negra
+6,"('6K', '2-1', 'FUS')",2192,Cinta Negra
+6,"('AB3', '0-2', 'Exolos')",2192,Cinta Negra
+6,"('AB3', '1-2', 'Exolos')",2192,Cinta Negra
+6,"('AB3', '2-0', 'Exolos')",2192,Cinta Negra
+6,"('AB3', '2-1', 'Exolos')",2192,Cinta Negra
+6,"('CHV', '0-2', '6K')",2544,Cinta Negra
+6,"('CHV', '0-2', 'Cinta Negra')",4352,Cinta Negra
+6,"('CHV', '1-2', '6K')",2544,Cinta Negra
+6,"('CHV', '1-2', 'Cinta Negra')",3328,Cinta Negra
+6,"('CHV', '2-0', '6K')",1840,Cinta Negra
+6,"('CHV', '2-0', 'Cinta Negra')",384,Cinta Negra
+6,"('CHV', '2-1', '6K')",1840,Cinta Negra
+6,"('CHV', '2-1', 'Cinta Negra')",704,Cinta Negra
+6,"('Contra', '0-2', 'Cinta Negra')",5632,Cinta Negra
+6,"('Contra', '0-2', 'Exolos')",2368,Cinta Negra
+6,"('Contra', '1-2', 'Cinta Negra')",3136,Cinta Negra
+6,"('Contra', '1-2', 'Exolos')",2176,Cinta Negra
+6,"('Contra', '2-0', 'Exolos')",1920,Cinta Negra
+6,"('Contra', '2-1', 'Exolos')",2304,Cinta Negra
+6,"('FUEGO', '0-2', 'AB3')",2752,Cinta Negra
+6,"('FUEGO', '0-2', 'FUS')",2752,Cinta Negra
+6,"('FUEGO', '1-2', 'AB3')",2176,Cinta Negra
+6,"('FUEGO', '1-2', 'FUS')",2176,Cinta Negra
+6,"('FUEGO', '2-0', 'AB3')",1728,Cinta Negra
+6,"('FUEGO', '2-0', 'FUS')",1728,Cinta Negra
+6,"('FUEGO', '2-1', 'AB3')",2112,Cinta Negra
+6,"('FUEGO', '2-1', 'FUS')",2112,Cinta Negra
+7,"('6K', '0-2', 'FUS')",3104,Cinta Negra
+7,"('6K', '1-2', 'FUS')",3104,Cinta Negra
+7,"('6K', '2-0', 'FUS')",3104,Cinta Negra
+7,"('6K', '2-1', 'FUS')",3104,Cinta Negra
+7,"('AB3', '0-2', 'Exolos')",3104,Cinta Negra
+7,"('AB3', '1-2', 'Exolos')",3104,Cinta Negra
+7,"('AB3', '2-0', 'Exolos')",3104,Cinta Negra
+7,"('AB3', '2-1', 'Exolos')",3104,Cinta Negra
+7,"('CHV', '0-2', '6K')",2240,Cinta Negra
+7,"('CHV', '0-2', 'Cinta Negra')",2688,Cinta Negra
+7,"('CHV', '1-2', '6K')",2240,Cinta Negra
+7,"('CHV', '1-2', 'Cinta Negra')",3072,Cinta Negra
+7,"('CHV', '2-0', '6K')",3968,Cinta Negra
+7,"('CHV', '2-0', 'Cinta Negra')",3328,Cinta Negra
+7,"('CHV', '2-1', '6K')",3968,Cinta Negra
+7,"('CHV', '2-1', 'Cinta Negra')",3328,Cinta Negra
+7,"('Contra', '0-2', 'Cinta Negra')",5632,Cinta Negra
+7,"('Contra', '0-2', 'Exolos')",5120,Cinta Negra
+7,"('Contra', '1-2', 'Cinta Negra')",6784,Cinta Negra
+7,"('Contra', '1-2', 'Exolos')",5248,Cinta Negra
+7,"('Contra', '2-0', 'Exolos')",1152,Cinta Negra
+7,"('Contra', '2-1', 'Exolos')",896,Cinta Negra
+7,"('FUEGO', '0-2', 'AB3')",2112,Cinta Negra
+7,"('FUEGO', '0-2', 'FUS')",2112,Cinta Negra
+7,"('FUEGO', '1-2', 'AB3')",2304,Cinta Negra
+7,"('FUEGO', '1-2', 'FUS')",2304,Cinta Negra
+7,"('FUEGO', '2-0', 'AB3')",4096,Cinta Negra
+7,"('FUEGO', '2-0', 'FUS')",4096,Cinta Negra
+7,"('FUEGO', '2-1', 'AB3')",3904,Cinta Negra
+7,"('FUEGO', '2-1', 'FUS')",3904,Cinta Negra
