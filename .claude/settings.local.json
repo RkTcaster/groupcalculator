@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "Bash(py *)"
+      "Bash(py *)",
+      "Bash(python3 *)",
+      "Bash(jupyter nbconvert *)",
+      "Bash(python -c \"import json; nb=json.load\\(open\\('main vct Americas.ipynb', encoding='utf-8'\\)\\); [print\\(f'=== CELL {i} \\({c[\\\\\"cell_type\\\\\"]}\\) ===\\\\n' + ''.join\\(c['source']\\)\\) for i,c in enumerate\\(nb['cells']\\)]\")",
+      "Bash(where python *)",
+      "Bash(where py *)",
+      "Bash(where python3 *)",
+      "Bash(python -c \"import json; nb=json.load\\(open\\(r'C:\\\\Users\\\\lrktl\\\\Documents\\\\Proyectos\\\\GroupCalculator\\\\groupcalculator\\\\main vct Americas.ipynb','r',encoding='utf-8'\\)\\); [print\\(f'--- cell {i} \\({c[\\\\\"cell_type\\\\\"]}\\) ---'\\); print\\(''.join\\(c.get\\('source',[]\\)\\)[:200]\\) for i,c in enumerate\\(nb['cells']\\)]\")",
+      "Bash(python *)",
+      "Read(//tmp/**)"
     ]
   }
 }
