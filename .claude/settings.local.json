@@ -10,7 +10,15 @@
       "Bash(where python3 *)",
       "Bash(python -c \"import json; nb=json.load\\(open\\(r'C:\\\\Users\\\\lrktl\\\\Documents\\\\Proyectos\\\\GroupCalculator\\\\groupcalculator\\\\main vct Americas.ipynb','r',encoding='utf-8'\\)\\); [print\\(f'--- cell {i} \\({c[\\\\\"cell_type\\\\\"]}\\) ---'\\); print\\(''.join\\(c.get\\('source',[]\\)\\)[:200]\\) for i,c in enumerate\\(nb['cells']\\)]\")",
       "Bash(python *)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\lrktl\\\\Documents\\\\Proyectos\\\\GroupCalculator\\\\groupcalculator\" -Recurse)",
+      "Bash(Select-Object FullName, Length)",
+      "Bash(ConvertTo-Json)",
+      "Bash(grep \"\\\\.csv$\")",
+      "Bash(mv results/results_batch_test0.csv intermediate/results/)",
+      "Bash(mv results/stage_2/processed_results_batch_test0.csv0.csv intermediate/results/stage_2/)",
+      "Bash(rmdir results/stage_2 results/progress results)",
+      "Bash(rm -rf mod/__pycache__)"
     ]
   }
 }
